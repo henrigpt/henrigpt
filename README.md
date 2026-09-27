@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ladymnria&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=henrigpt&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
